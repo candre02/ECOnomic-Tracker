@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "economic-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candre02/ECOnomic-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candre02/ECOnomic-Tracker/issues"
+  },
+  "homepage": "https://github.com/candre02/ECOnomic-Tracker#readme"
+}
