@@ -2,16 +2,18 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.2",
-    "mongoose": "^6.1.7"
+    "mongoose": "^6.1.7",
+    "morgan": "^1.10.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite-server": "lite-server"
   },
   "name": "economic-tracker",
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/candre02/ECOnomic-Tracker.git"
