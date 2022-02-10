@@ -17,6 +17,7 @@ In order for the application to be used, the user would need the command-line, a
 Then user would need to open the browser using localhost:3001 to deploy the app. Once its deployed, the user could input any transaction of their choosing by name and amount, to either deposit or withdraw funds that's being inputed into the Budget Tracker graph. The gragh demostrates a 'Total Over Time' amount that handles the users financial infomation.
 
 ## Images
+![budgettracker](https://user-images.githubusercontent.com/81876258/153473490-c087b953-9cc6-4b10-987e-ee486132e4d4.png)
 
 
 ## Contact
